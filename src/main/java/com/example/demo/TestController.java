@@ -13,7 +13,7 @@ import javax.annotation.Resources;
 public class TestController {
     @RequestMapping("/demo")
     public String demo(){
-        return "请注意,倒车!";
+        return "请注意,下雪了!";
     }
 
 }
